@@ -1,0 +1,6 @@
+---
+applications:
+- name: broker-service
+  memory: 1028M
+  path: build/libs/haash-broker-0.0.1-SNAPSHOT.jar
+  buildpack: java_buildpack
